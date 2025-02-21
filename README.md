@@ -2,6 +2,9 @@
 
 AI Career Guidance and Knowledge Testing Web Application.
 
+![image](https://github.com/user-attachments/assets/17bbe02d-8112-4a8d-bb68-c670fcc577a2)
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
