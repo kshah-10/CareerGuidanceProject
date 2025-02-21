@@ -1,4 +1,4 @@
-# Self_Assistant_AI_Web_App
+# ASPIRE 360
 
 AI Career Guidance and Knowledge Testing Web Application.
 
